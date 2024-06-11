@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ispit.API</name>
+    </assembly>
+    <members>
+        <member name="M:Ispit.API.Controllers.ShoppingItemController.GetShoppingItems">
+            <summary>
+            Ja sam opis ove metode
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Ispit.API.Migrations.init">
+            <inheritdoc />
+        </member>
+        <member name="M:Ispit.API.Migrations.init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Ispit.API.Migrations.init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Ispit.API.Migrations.init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
